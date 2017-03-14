@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Meu Estoque</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="codigo_do_produto">Codigo do Produto</string>
+    <string name="valor">Valor</string>
+    <string name="quantidade_m_nima">Quantidade Mínima</string>
+    <string name="quantidade_atual">Quantidade Atual</string>
 </resources>
